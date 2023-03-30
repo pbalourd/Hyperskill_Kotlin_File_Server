@@ -1,0 +1,10 @@
+/fileserver/stage1/build/
+/fileserver/stage2/build/
+/fileserver/stage3/build/
+/fileserver/stage4/build/
+/fileserver/stage4/src/server/files.data
+/.gradle/
+.idea/
+build/
+
+/gradle/wrapper/

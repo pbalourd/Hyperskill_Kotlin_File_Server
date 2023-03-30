@@ -1,0 +1,14 @@
+type: edu
+files:
+- name: src/server/Main.kt
+  visible: true
+- name: src/client/Main.kt
+  visible: true
+- name: test/FileServerTest.java
+  visible: false
+- name: src/server/data/test_purpose_NRAY67.txt
+  visible: true
+- name: src/server/data/test_purpose_441X2D99P.txt
+  visible: true
+- name: src/server/FileStorage.kt
+  visible: true

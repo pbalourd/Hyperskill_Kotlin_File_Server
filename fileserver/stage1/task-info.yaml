@@ -1,0 +1,6 @@
+type: edu
+files:
+- name: src/server/Main.kt
+  visible: true
+- name: test/FileServerTest.java
+  visible: false
